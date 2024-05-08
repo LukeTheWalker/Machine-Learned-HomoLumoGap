@@ -1,0 +1,8 @@
+torch 
+torchvision 
+torchaudio
+lightning
+schnetpack
+numpy
+pandas
+tensorboard
